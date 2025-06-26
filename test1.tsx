@@ -1,4 +1,4 @@
-const Test2 = () => {
-  console.log("테스트")
-  console.log("테스트입니다.")
+const Test1 = () => {
+  console.log("테스트1")
+  console.log("테스트1입니다.")
 }
